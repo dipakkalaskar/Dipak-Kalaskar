@@ -1,4 +1,4 @@
-# Covid-19_Awareness
+# Covid-19 Awareness and Safety Precautions
 
 User-friendly & responsive website for Covid-19 Awareness & Protection.
 
