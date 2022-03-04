@@ -2,7 +2,7 @@
 
 User-friendly & responsive website for Covid-19 Awareness & Protection.
 
-### Project Link: https://blue-plant-0e53d7910.1.azurestaticapps.net
+### Project Link: https://dipakkalaskar.azurewebsites.net/
 
 ## About Project
 As we know that the **COVID-19 pandemic** has now entered its **third year**. Till the December 2021, the novel coronavirus was raging in almost 200 countries and had killed more than **5.3 million** people. We need to come together and fight against it.
@@ -44,7 +44,5 @@ You can **visit my website live** by clicking on the link provided above.
 ## Covid Cases in India:
 ![Screenshot (425)](https://user-images.githubusercontent.com/71518411/150993494-9d25ad5a-86be-4e19-ad5a-b191e4323ffd.png)
 
-## Footer with Imp links:
-![Screenshot (426)](https://user-images.githubusercontent.com/71518411/150993497-b15c16b9-dbb6-46c5-ab33-ab4d0d320320.png)
 
-### **#FRT** **#FUTUREREADYTALENT** **#MICROSOFT** **#INTERNSHIP** **#BATCH1**
+### **#FRT** **#FUTUREREADYTALENT** **#MICROSOFT** **#INTERNSHIP** **#BATCH2**
